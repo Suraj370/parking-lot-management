@@ -22,8 +22,7 @@ The system follows a layered architecture:
 - **Vehicle Entry and Exit Tracking**: Records entry and exit times of vehicles.
 - **Payment Processing**: Manages payment transactions for parking fees.
 - **Availability Tracking**: Monitors the status of parking slots.
-- **User Management**: Supports user registration and authentication.
-- **Reporting**: Generates reports on parking usage and statistics.
+
 
 ## Data Flow
 1. **User Interaction**: Users interact with the system through the command line interface.
